@@ -10,3 +10,5 @@
 
 
 4. In order to use the email option, you'll need to have an active Google account with 'Allow less secure apps' property to 'ON'. You can do so by following this link https://myaccount.google.com/lesssecureapps
+
+5. In order to get the program started, run 'run()' command in any cell in the notebook.
